@@ -1,25 +1,3 @@
 # projetointegrador
-Mural de Fotos das Atividades Desenvolvidas
 
-Pagina Inicial do site: 
-
- 
-
-Pagina dos serviços oferecidos no site:
-
- 
-
-Sobre a equipe: 
-
- 
-Os projetos mais recentes:
- 
-
-Depoimento dos clientes:
- 
-Contatos e localização:
- 
-Links de acesso rápido:
-
- 
-
+Projeto desenvolvido na Faculdade Flamingo para Conclusão da materia de projeto integrador, onde podemos fazer algo para ajudar a comunidade.
