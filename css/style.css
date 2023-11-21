@@ -538,6 +538,7 @@ section{
         padding:1rem;
         margin: 1rem;
         border-radius: .5rem;
+        color: #000000;
     }
     .header .navbar a:hover{
         background: var(--bg);
